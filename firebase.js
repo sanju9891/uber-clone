@@ -1,4 +1,4 @@
-/*
+
 import { initializeApp } from "firebase/app";
 import { GoogleAuthProvider, getAuth } from 'firebase/auth'
 
@@ -17,4 +17,3 @@ const googleProvider = new GoogleAuthProvider();
 const auth = getAuth()
 
 export { app, googleProvider, auth }
-*/
